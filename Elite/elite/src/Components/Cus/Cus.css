@@ -1,0 +1,42 @@
+.big{
+    height: 30rem;
+    background-color: white;
+    margin-top: 1.5rem;
+}
+.big p{
+    position: absolute;
+    margin-top: 13rem;
+    left: 60rem;
+    -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.big h3{
+    position: absolute;
+    margin-top: 20rem;
+    left: 40rem;
+    -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.big h4{
+    font-weight: 100;
+    color: rgb(114, 113, 113);
+    position: absolute;
+    margin-top: 21.4rem;
+    left: 39.8rem;
+    -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.glasss-container{
+    
+    
+    position: relative;
+        height: 250px;
+        margin-left: 20rem;
+        margin-right: 60rem;
+       top: 7rem;
+       right: 4rem;
+        background: black;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+   
+}

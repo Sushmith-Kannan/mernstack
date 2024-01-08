@@ -1,0 +1,33 @@
+{
+  "name": "mdb-tailwind-starter",
+  "version": "1.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdbootstrap/mdb-webpack-starter"
+  },
+  "keywords": [
+    "tailwind",
+    "material design"
+  ],
+  "author": "MDBootstrap <office@mdbootstrap.com>",
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "jest": "^29.7.0",
+    "sass": "^1.69.5",
+    "sass-loader": "^13.3.2",
+    "tw-elements": "^1.1.0"
+  }
+}

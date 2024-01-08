@@ -1,0 +1,45 @@
+.logo {
+    display: flex;
+    margin-left: 2rem; 
+  }
+  
+  #elite {
+    padding-top: 0.5rem;
+    font-size: 1.2rem;
+    color: white;
+  }
+  
+  #trips {
+    padding-top: 0.2rem;
+    color: orangered;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex; 
+    color: white;
+  }
+  
+  li {
+    margin-right: 1rem;
+    cursor: pointer;
+  }
+  
+  .linkss {
+    margin-left: auto; 
+    margin-right: 5rem; 
+    margin-top: 0.5rem;
+    display: flex;
+    align-items: center; 
+  }
+  .contact{
+    background-color: orangered;
+  color: white;
+  border: 2px solid orangered;
+  padding: 14px 40px;
+  cursor: pointer;
+  }
+
+  

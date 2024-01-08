@@ -1,0 +1,28 @@
+#some{
+    background-color: rgb(207, 207, 207);
+    width: 25rem;
+    height: 15rem;
+   
+   
+}
+#some1{
+    display: flex;
+}
+ul{
+    padding-top: 4rem;
+}
+h2{
+    padding-left: 2rem;
+}
+p{
+    padding-left: 2rem;
+}
+img{
+    padding-left: 2rem;
+    height: 10rem;
+    width: 10rem;
+    border-radius: 8px;
+}
+#someh{
+    padding-top: 5rem;
+}

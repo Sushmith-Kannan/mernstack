@@ -1,0 +1,41 @@
+
+
+.para1 h1{
+    
+text-align: center;
+font-size: 4.25rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 10%;
+margin-right: 10%;
+color: white;
+
+}
+.para1 p{
+    margin-left: 20%;
+   margin-right: 20%;
+   
+text-align: center;
+color: rgb(201, 201, 201);
+font-size: 1.5rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.bt1{
+   
+  margin-top: 4rem;
+  margin-left: 48rem;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: orangered;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
